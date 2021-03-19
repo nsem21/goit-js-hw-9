@@ -1,0 +1,23 @@
+{
+    "name": "goit-js-hw-9",
+    "version": "1.0.0",
+    "description": "webpack",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nsem21/goit-js-hw-9.git"
+    },
+    "author": "Me",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nsem21/goit-js-hw-9/issues"
+    },
+    "homepage": "https://github.com/nsem21/goit-js-hw-9#readme",
+    "devDependencies": {
+        "webpack": "^5.26.3",
+        "webpack-cli": "^4.5.0"
+    }
+}
